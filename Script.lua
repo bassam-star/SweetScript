@@ -15,7 +15,7 @@ local Window = Rayfield:CreateWindow({
       Invite = "noinvitelink",
       RememberJoins = true 
    },
-   KeySystem = true, 
+   KeySystem = false, 
    KeySettings = {
       Title = "Key | Sweet BloxFruit Script",
       Subtitle = "Key System",
